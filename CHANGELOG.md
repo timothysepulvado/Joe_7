@@ -9,8 +9,23 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 ### Planned
-- Navigation links in header
-- OS HUD link integration
+- Replace placeholder images with actual assets
+- Mobile hamburger menu
+- Keyboard navigation (arrow keys)
+
+---
+
+## [0.2.0] - 2025-01-05
+
+### Added
+- Dropdown navigation menu with all 18 slides organized by section
+- OS HUD button (dummy link with placeholder)
+- Slide anchor IDs for smooth scroll navigation
+- Grouped nav sections: Overview, The Challenge, The Platform, Proof & Results, Business Case, Next Steps
+
+### Changed
+- Nav layout updated to flex with logo/nav/hud structure
+- Responsive nav hides dropdown on mobile (< 900px)
 
 ---
 
@@ -40,4 +55,5 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 | Version | Date       | Description                          |
 |---------|------------|--------------------------------------|
+| 0.2.0   | 2025-01-05 | Navigation dropdown + OS HUD button  |
 | 0.1.0   | 2025-01-05 | Initial release - CEO presentation   |

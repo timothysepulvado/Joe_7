@@ -1,9 +1,6 @@
 # TODO
 
 ## Priority: High
-
-- [ ] Add navigation links to header
-- [ ] Add OS HUD link to header
 - [ ] Replace placeholder images with actual assets
   - [ ] Slide 2: Network visualization image
   - [ ] Slide 6: Network visualization placeholder
@@ -32,6 +29,9 @@
 - [x] Responsive breakpoints (2025-01-05)
 - [x] All 19 slides content (2025-01-05)
 - [x] Git repo setup and GitHub connection (2025-01-05)
+- [x] Dropdown navigation to all slides (2025-01-05)
+- [x] OS HUD button (dummy link) (2025-01-05)
+- [x] Slide anchor IDs for navigation (2025-01-05)
 
 ---
 
@@ -46,5 +46,6 @@ Nav structure to implement:
 ```
 
 ### OS HUD Integration
-- Waiting on separate repo work
-- Will need link/URL once ready
+- Dummy button added with placeholder alert
+- Update link in nav when HUD repo is ready
+- Look for: `class="nav-hud-btn"` in index.html
