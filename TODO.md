@@ -3,7 +3,7 @@
 ## Priority: High
 - [ ] Replace placeholder images with actual assets
   - [ ] Slide 2: Network visualization image
-  - [ ] Slide 6: Network visualization placeholder
+  - [x] Slide 6: Platform diagram (2025-01-05)
   - [ ] Slide 19: Artistic human figure placeholder
 
 ## Priority: Medium
