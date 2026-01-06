@@ -1,11 +1,12 @@
 # TODO
 
 ## Priority: High
-- [ ] Replace placeholder images with actual assets
+- [x] Replace placeholder images with actual assets
   - [x] Slide 2: Network visualization image (2025-01-06)
   - [x] Slide 5: One Connected Creative Brain image (2025-01-06)
   - [x] Slide 6: Platform diagram (2025-01-05)
-  - [ ] Slide 19: Artistic human figure placeholder
+  - [x] Slide 18: Commercial Flywheel diagram (2025-01-06)
+  - [x] Slide 19: Human Intelligence Amplified image (2025-01-06)
 
 ## Priority: Medium
 
