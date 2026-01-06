@@ -1,12 +1,8 @@
 # TODO
 
 ## Priority: High
-- [x] Replace placeholder images with actual assets
-  - [x] Slide 2: Network visualization image (2025-01-06)
-  - [x] Slide 5: One Connected Creative Brain image (2025-01-06)
-  - [x] Slide 6: Platform diagram (2025-01-05)
-  - [x] Slide 18: Commercial Flywheel diagram (2025-01-06)
-  - [x] Slide 19: Human Intelligence Amplified image (2025-01-06)
+
+- [ ] Polish/cleanup pass - uniformity adjustments (pending user input)
 
 ## Priority: Medium
 
@@ -29,12 +25,15 @@
 - [x] Initial HTML structure (2025-01-05)
 - [x] Sticky header with blur effect (2025-01-05)
 - [x] Responsive breakpoints (2025-01-05)
-- [x] All 19 slides content (2025-01-05)
+- [x] All 20 slides content (2026-01-06)
 - [x] Git repo setup and GitHub connection (2025-01-05)
 - [x] Dropdown navigation to all slides (2025-01-05)
-- [x] OS HUD button (dummy link) (2025-01-05)
 - [x] OS HUD button connected to pre-viz (2026-01-06)
 - [x] Slide anchor IDs for navigation (2025-01-05)
+- [x] Agenda slide added (slide 2) with 10 topics (2026-01-06)
+- [x] Title updated: "Working Session" (CEO removed) (2026-01-06)
+- [x] All placeholder images complete (2026-01-06)
+- [x] Flywheel image: cleanflywheel.png (2026-01-06)
 
 ---
 
