@@ -9,9 +9,23 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 ## [Unreleased]
 
 ### Planned
-- Replace placeholder images with actual assets
 - Mobile hamburger menu
 - Keyboard navigation (arrow keys)
+
+---
+
+## [0.3.0] - 2026-01-06
+
+### Added
+- OS HUD button now links to https://brandstudiosai-pre-viz.vercel.app/ (opens in new tab)
+
+### Changed
+- Slide 18: Swapped flywheel image from Flywheel_temp.png to creamfly.png
+- Slide 18: Removed max-width limit on flywheel image for better visual balance
+
+### Images
+- All placeholder images now complete (slides 01, 05, 06, 10, 18, 19)
+- Slide 10 (Proof): Jenni Kayne and CYLNDR tiles are clickable links
 
 ---
 
@@ -55,5 +69,6 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 | Version | Date       | Description                          |
 |---------|------------|--------------------------------------|
+| 0.3.0   | 2026-01-06 | Flywheel image update + OS HUD link  |
 | 0.2.0   | 2025-01-05 | Navigation dropdown + OS HUD button  |
 | 0.1.0   | 2025-01-05 | Initial release - CEO presentation   |

@@ -33,6 +33,7 @@
 - [x] Git repo setup and GitHub connection (2025-01-05)
 - [x] Dropdown navigation to all slides (2025-01-05)
 - [x] OS HUD button (dummy link) (2025-01-05)
+- [x] OS HUD button connected to pre-viz (2026-01-06)
 - [x] Slide anchor IDs for navigation (2025-01-05)
 
 ---
@@ -48,6 +49,6 @@ Nav structure to implement:
 ```
 
 ### OS HUD Integration
-- Dummy button added with placeholder alert
-- Update link in nav when HUD repo is ready
+- ~~Dummy button added with placeholder alert~~
+- [x] Connected to https://brandstudiosai-pre-viz.vercel.app/ (2026-01-06)
 - Look for: `class="nav-hud-btn"` in index.html
