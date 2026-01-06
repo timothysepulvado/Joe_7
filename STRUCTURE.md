@@ -7,6 +7,7 @@ Quick reference for navigating the codebase.
 ```
 Joe_7/
 ├── index.html      # Main presentation file
+├── images/         # Image assets folder
 ├── CHANGELOG.md    # Version history and changes
 ├── TODO.md         # Task tracking
 ├── STRUCTURE.md    # This file - project map
