@@ -14,6 +14,23 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 ---
 
+## [0.4.0] - 2026-01-06
+
+### Added
+- New Agenda slide (slide 2) with 10 discussion topics in 2-column layout
+- Agenda included in nav dropdown under Overview section
+
+### Changed
+- Title slide: Removed "CEO" from "CEO Working Session" → "Working Session · 7 January 2026"
+- Page title updated to match
+- All slide numbers incremented by 1 to accommodate new Agenda slide (now 20 slides total)
+- Nav dropdown numbers updated to reflect new slide order
+- Footer copyright text updated (removed "CEO")
+- Slide 19: Swapped flywheel image from creamfly.png to cleanflywheel.png
+- Slide 19: Added margin-top for vertical centering with left copy
+
+---
+
 ## [0.3.0] - 2026-01-06
 
 ### Added
@@ -69,6 +86,7 @@ Format based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
 | Version | Date       | Description                          |
 |---------|------------|--------------------------------------|
+| 0.4.0   | 2026-01-06 | Agenda slide + title update (20 slides) |
 | 0.3.0   | 2026-01-06 | Flywheel image update + OS HUD link  |
 | 0.2.0   | 2025-01-05 | Navigation dropdown + OS HUD button  |
-| 0.1.0   | 2025-01-05 | Initial release - CEO presentation   |
+| 0.1.0   | 2025-01-05 | Initial release - Working Session    |
