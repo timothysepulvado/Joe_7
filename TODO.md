@@ -13,6 +13,7 @@
 
 ## Priority: Low
 
+- [ ] HUD button styling options (explore color/outline variations)
 - [ ] Add print styles for PDF export
 - [ ] Add meta tags for SEO/sharing
 - [ ] Add favicon
