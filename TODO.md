@@ -2,7 +2,11 @@
 
 ## Priority: High
 
-- [ ] Polish/cleanup pass - uniformity adjustments (pending user input)
+- [ ] **FIX SLIDE ALIGNMENT** - v0.4.1 "align to left" swapped positions on several slides
+  - Slides 05, 08, 14 (and possibly others) have left/right positions reversed
+  - What was on the left is now on the right, and vice versa
+  - Compare each slide against deployed version at jan26-five.vercel.app to identify issues
+  - Swap content back to original positions
 
 ## Priority: Medium
 
@@ -35,6 +39,9 @@
 - [x] Title updated: "Working Session" (CEO removed) (2026-01-06)
 - [x] All placeholder images complete (2026-01-06)
 - [x] Flywheel image: cleanflywheel.png (2026-01-06)
+- [x] **Proof slide pill fix** - "The Ask" pill now uses `<span onclick>` instead of nested `<a>` (2026-01-06)
+  - Fixed: Tiles display side-by-side correctly
+  - Fixed: Both CYLNDR card link and "The Ask" pill link work independently
 
 ---
 
@@ -52,3 +59,8 @@ Nav structure to implement:
 - ~~Dummy button added with placeholder alert~~
 - [x] Connected to https://brandstudiosai-pre-viz.vercel.app/ (2026-01-06)
 - Look for: `class="nav-hud-btn"` in index.html
+
+### Session 2026-01-06 Notes
+- The nested `<a>` tag issue caused browsers to break CYLNDR card structure
+- Solution: Changed inner pill from `<a>` to `<span onclick="window.open(...)"`
+- This is the ONLY change from v0.4.1 that should be kept
